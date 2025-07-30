@@ -1,6 +1,6 @@
 # Merhaba, ben Mehmet Akif 👋
 
-Yeni yetme bir yazılımcı adayıyım. 8 haftalık bir yazılım eğitimi aldım ve temel web teknolojileri üzerinde çalışıyorum.  
+Yeni yetme bir yazılımcı adayıyım. 8 haftalık bir yazılım eğitimi alıyorum, şuan 5. hafyasındayım ve temel web teknolojileri üzerinde çalışıyorum.  
 İstanbul Üniversitesi Cerrahpaşa Fakültesinde sınava girdim ve sertifikamı aldım.
 
 ## 🚀 Öğrendiklerim:
