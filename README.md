@@ -1,16 +1,15 @@
-## Hi there 👋
+# Merhaba, ben Mehmet Akif 👋
 
-<!--
-**OKSEIDON/OKSEIDON** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Yeni yetme bir yazılımcı adayıyım. 8 haftalık bir yazılım eğitimi aldım ve temel web teknolojileri üzerinde çalışıyorum.  
+İstanbul Üniversitesi Cerrahpaşa Fakültesinde sınava girdim ve sertifikamı aldım.
 
-Here are some ideas to get you started:
+## 🚀 Öğrendiklerim:
+- HTML, CSS, JS, PHP, C#
+- Temel algoritmalar
+- Formlar, veritabanı işlemleri
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🛠️ Günlük Kodlama Rutinim:
+Her gün GitHub'a katkı sağlamaya çalışıyorum. Kod yazdıkça commit atıyor ve kendimi geliştiriyorum.
+
+## 📫 Bana ulaş:
+akifbusiness@proton.me
