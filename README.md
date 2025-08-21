@@ -4,7 +4,7 @@ Yeni yetme bir yazılımcı adayıyım. 8 haftalık bir yazılım eğitimi alıy
 İstanbul Üniversitesi Cerrahpaşa Fakültesinde sınava girdim ve sertifikamı aldım.
 
 ## 🚀 Öğrendiklerim:
-- HTML, CSS, JS, PHP, C#
+- HTML, CSS, PHP, C#
 - Temel algoritmalar
 - Formlar, veritabanı işlemleri
 
