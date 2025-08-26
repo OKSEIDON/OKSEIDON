@@ -1,7 +1,6 @@
 # Merhaba, ben Mehmet Akif 👋
 
-Yeni yetme bir yazılımcı adayıyım. 8 haftalık bir yazılım eğitimi alıyorum, şuan 5. hafyasındayım ve temel web teknolojileri üzerinde çalışıyorum.  
-İstanbul Üniversitesi Cerrahpaşa Fakültesinde sınava girdim ve sertifikamı aldım.
+Yeni yetme bir yazılımcı adayıyım. 8 haftalık yazılım eğitimimi tamamladım. Yarın İstanbul Üniversitesi Cerrahpaşa onaylı sertifikamı almak için sınava giriyorum <3.
 
 ## 🚀 Öğrendiklerim:
 - HTML, CSS, PHP, C#
@@ -9,7 +8,7 @@ Yeni yetme bir yazılımcı adayıyım. 8 haftalık bir yazılım eğitimi alıy
 - Formlar, veritabanı işlemleri
 
 ## 🛠️ Günlük Kodlama Rutinim:
-Her gün GitHub'a katkı sağlamaya çalışıyorum. Kod yazdıkça commit atıyor ve kendimi geliştiriyorum.
+Kafama ne eserse ona başlıyorum ta ki bitene kadar.
 
 ## 📫 Bana ulaş:
 akifbusiness@proton.me
