@@ -1,6 +1,6 @@
 # Merhaba, ben Mehmet Akif 👋
 
-Yeni yetme bir yazılımcı adayıyım. 8 haftalık yazılım eğitimimi tamamladım. Yarın İstanbul Üniversitesi Cerrahpaşa onaylı sertifikamı almak için sınava giriyorum <3.
+İstanbul Üniversitesi onaylı yazılım eğitimi sertifikasına sahip yeni yetme bir yazılımcı adayıyım.
 
 ## 🚀 Öğrendiklerim:
 - HTML, CSS, PHP, C#
