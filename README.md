@@ -3,7 +3,7 @@
 İstanbul Üniversitesi onaylı yazılım eğitimi sertifikasına sahip yeni yetme bir yazılımcı adayıyım.
 
 ## 🚀 Öğrendiklerim:
-- HTML, CSS, PHP, C#
+- HTML, CSS, PHP, C#, C++, Python
 - Temel algoritmalar
 - Formlar, veritabanı işlemleri
 
